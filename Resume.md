@@ -5,7 +5,8 @@
              <img src="assets/phone-solid.svg" width="18px">
              19800373731
          </span>
-         ·
+         </span>
+         </span>
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
              ahhcjy@buaa.edu.cn
